@@ -1,5 +1,7 @@
-# System-Call-To-Optimize-Memory-Utilization
-Developed a new system call which hard links 2 input files, if content of files are identical to each other.
+CSE-506 (Spring 2018) Homework Assignment #1
+Submitted By:- Dinesh Balani
+ID No- 111500275
+
 
 * TASK:
 
@@ -128,6 +130,5 @@ http://www-numi.fnal.gov/offline_software/srt_public_context/WebDocs/Errors/unix
 http://www3.cs.stonybrook.edu/~ezk/cse506-s18/hw1.txt
 http://www3.cs.stonybrook.edu/~ezk/cse506-s18/lectures/10b.txt
 http://www3.cs.stonybrook.edu/~ezk/cse506-s18/lectures/10.txt
-
 
 
